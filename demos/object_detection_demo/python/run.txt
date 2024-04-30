@@ -1,0 +1,1 @@
+ python object_detection_demo.py -m .\FP32\yolox-tiny.xml --device CPU --labels .\label.txt -at yolox -i 0
